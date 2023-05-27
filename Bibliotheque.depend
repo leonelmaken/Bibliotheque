@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1611701061 source:c:\users\hp15\documents\bibliotheque\main.c
+	<stdio.h>
+	<stdlib.h>
+	"factoriel.h"
+
+1611701021 c:\users\hp15\documents\bibliotheque\factoriel.h
+
+1611700991 source:c:\users\hp15\documents\bibliotheque\factoriel.c
+	<stdio.h>
+	"factoriel.h"
+
